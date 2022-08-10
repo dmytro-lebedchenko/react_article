@@ -1,0 +1,2 @@
+*{box-sizing:border-box}html{font-size:16px;line-height:32px;font-weight:400;font-family:"Source Sans Pro","Open Sans",Roboto,Arial,sans-serif}body{margin:80px;background:#eee}h1{color:#000;-webkit-animation:slide-right 2s;animation:slide-right 2s}span{font-style:italic}@-webkit-keyframes slide-right{0%{margin-top:-100px}to{margin-top:0}}@keyframes slide-right{0%{margin-top:-100px}to{margin-top:0}}
+/*# sourceMappingURL=main.df753d7f.chunk.css.map */
